@@ -1,5 +1,7 @@
 users:
-  - name: frank1
-    group: developer1
-  - name: Harry1
-    group: Manager1
+  - name: frank
+    group: developer
+  - name: Harry
+    group: Manager
+  - name: bob
+    group: Developer
